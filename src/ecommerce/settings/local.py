@@ -24,7 +24,7 @@ SECRET_KEY = '@!-)jwmuzh8btr380g61=g+#&zzei&dz2(&=xbvxztady)_p(r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', '127.0.0.1']
+ALLOWED_HOSTS = ['198.211.99.20', 'localhost', '127.0.0.1']
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'hungrypy@gmail.com' # sendgrid
